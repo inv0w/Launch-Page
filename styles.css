@@ -1,0 +1,11 @@
+body {
+  color:black;
+}
+.navbar {
+  padding 1rem;
+  background-color: gray;
+}
+.btn-primary:hover {
+  background-color: blue;
+  color: white;
+}
